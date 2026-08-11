@@ -6,7 +6,8 @@ A simple, lightweight, (hopefully) easy to use MacOS program that can download m
 Go to the [releases](https://github.com/StrikeX2/VideoDownloader/releases) page and download the latest release (the .dmg file).  
 Open the .dmg and drag the app to your applications folder
 Open the app and enjoy!
-##### If apple blocks you from opening the app (e.g couldn't verify free of malware), override this by going to System Settings > Privacy and security, and scroll down to the bottom until you see a little popup with the option to open anyway.
+##### If apple blocks you from opening the app (e.g couldn't verify free of malware), override this by going to System Settings > Privacy and security, and scroll down to the bottom until you see a little popup with the option to open anyway.  
+##### BTW the scary warning is only there cause I don't have an apple developer account and I'm not paying $100 to get one,
 <br>
 <br>
 
