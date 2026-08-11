@@ -7,12 +7,8 @@ Go to the [releases](https://github.com/StrikeX2/VideoDownloader/releases) page 
 Open the .dmg and drag the app to your applications folder
 Open the app and enjoy!
 ##### If apple blocks you from opening the app (e.g couldn't verify free of malware), override this by going to System Settings > Privacy and security, and scroll down to the bottom until you see a little popup with the option to open anyway.  
-##### BTW the scary warning is only there cause I don't have an apple developer account and I'm not paying $100 to get one,
-<br>
-<br>
+##### BTW the scary malware warning is only there cause I don't have an apple developer account and I'm not paying $100 to get one, I promise it's not malware.
 
-
-  
 
 ## Other 
 If you want to support me with my projects, the best way you can do that is by sending me a nice message :D.  
