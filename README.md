@@ -1,6 +1,10 @@
 # Overview
 A simple, lightweight, (hopefully) easy to use MacOS program that can download mp3 and mp4 files from websites such as youtube, facebook, reddit etc. You can view the full list of compatible websites [here](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md).
 <br>
+
+## How to use:
+Just paste the video's URL, and click either download mp3 or download mp4.
+And that's it!
   
 ## Installation
 Go to the [releases](https://github.com/StrikeX2/VideoDownloader/releases) page and download the latest release (the .dmg file).  
