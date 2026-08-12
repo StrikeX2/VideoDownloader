@@ -4,7 +4,10 @@ A simple, lightweight, (hopefully) easy to use MacOS program that can download m
 
 ## How to use:
 Just paste the video's URL, and click either download mp3 or download mp4.
-And that's it!
+And that's it!  
+
+<img width="390" height="204" alt="Screenshot 2026-08-12 at 12 01 48 pm" src="https://github.com/user-attachments/assets/67e9f1f5-cb3c-44fa-9df9-18df4741d682" />  
+
   
 ## Installation
 Go to the [releases](https://github.com/StrikeX2/VideoDownloader/releases) page and download the latest release (the .dmg file).  
