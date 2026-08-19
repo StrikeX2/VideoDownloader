@@ -1,3 +1,6 @@
+# READ THE INSTRUCTIONS BELOW, DO NOT CLICK ANYWHERE ELSE YET, DO NOT SKIP THIS
+#### If you have never used github to download an app before, IT IS VERY IMPORTANT YOU READ THESE INSTRUCTIONS
+if you have used github to download an app before i mean do whatever you want, this warning is mostly to stop people who've never used github before not being able to find the app
 # Overview
 A simple, lightweight, (hopefully) easy to use MacOS program that can download mp3 and mp4 files from websites such as youtube, facebook, reddit etc. You can view the full list of compatible websites [here](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md).
 <br>
@@ -10,7 +13,8 @@ And that's it!
 
   
 ## Installation
-Go to the [releases](https://github.com/StrikeX2/VideoDownloader/releases) page and download the latest release (the .dmg file).  
+Go to the [releases](https://github.com/StrikeX2/VideoDownloader/releases) page and download the latest release (the .dmg file).
+#### DOWNLOAD PAGE LINK: https://github.com/StrikeX2/VideoDownloader/releases
 Open the .dmg and drag the app to your applications folder
 Open the app and enjoy!
 ### If apple blocks you from opening the app (e.g couldn't verify free of malware), override this by going to System Settings > Privacy and security, and scroll down to the bottom until you see a little popup with the option to open anyway.  
